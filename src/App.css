@@ -1,0 +1,31 @@
+.changeble-input {
+  border: none !important;
+  cursor: pointer;
+}
+
+.btn-delete {
+  color: red;
+  cursor: pointer;
+}
+
+.btn-delete:hover {
+  filter: opacity(0.8);
+}
+
+.btn-save {
+  color: green;
+  cursor: pointer;
+}
+
+.btn-save:hover {
+  filter: opacity(0.8);
+}
+
+.btn-add {
+  color: blue;
+  cursor: pointer;
+}
+
+.btn-add:hover {
+  filter: opacity(0.8);
+}

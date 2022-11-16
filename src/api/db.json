@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "createdAt": "Wed Nov 16 2022 09:12:05 GMT-0300 (Horário Padrão de Brasília)",
+      "category": "Elétrica",
+      "id": 1
+    },
+    {
+      "createdAt": "Wed Nov 16 2022 09:59:33 GMT-0300 (Horário Padrão de Brasília)",
+      "category": "Hudráulica",
+      "id": 2
+    },
+    {
+      "createdAt": "Wed Nov 16 2022 09:59:41 GMT-0300 (Horário Padrão de Brasília)",
+      "category": "Marcenaria",
+      "id": 3
+    },
+    {
+      "createdAt": "Wed Nov 16 2022 14:17:24 GMT-0300 (Horário Padrão de Brasília)",
+      "category": "Limpeza",
+      "id": 4
+    }
+  ],
+  "services": [
+    {
+      "createdAt": "2022-11-14T10:19:04.348Z",
+      "service": "Limpeza de casa",
+      "id": "1"
+    },
+    {
+      "createdAt": "2022-11-14T05:54:49.063Z",
+      "service": "Troca de bucha da descarga",
+      "id": "2"
+    },
+    {
+      "createdAt": "2022-11-13T18:53:16.509Z",
+      "service": "Instalação de chuveiro",
+      "id": "3"
+    },
+    {
+      "createdAt": "2022-11-13T15:57:20.618Z",
+      "service": "Formatação de computador",
+      "id": "4"
+    },
+    {
+      "createdAt": "Wed Nov 16 2022 08:03:36 GMT-0300 (Horário Padrão de Brasília)",
+      "service": "Limpeza de carpete",
+      "id": "sbJPI0e"
+    },
+    {
+      "createdAt": "Wed Nov 16 2022 08:03:40 GMT-0300 (Horário Padrão de Brasília)",
+      "category": "Limpeza de carpete",
+      "id": "elWogFq"
+    }
+  ]
+}
